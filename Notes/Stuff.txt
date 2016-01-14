@@ -1,0 +1,6 @@
+sRGB gAmma correction turn to off
+Render Settings > Color Management > untick apply output transform to render
+targa
+frame/animation > name#.ext
+Frame Range end at 300
+Image Size > 800x600
